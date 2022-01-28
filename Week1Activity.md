@@ -5,42 +5,41 @@ title: Week 1 Actvities
 ---
 ## At Home Activity 1: Genetics and Genomics Worksheet 
 
-
 Based on the material discussed in the online lecture answer the following questions:
 
-1. What is a) Genetics, b) Genomics\
+1. What is a) Genetics, b) Genomics
 
-   \
+   
 
-   \
+   
 
-2. What substance contains our genetic code?\
+2. What substance contains our genetic code?
 
-   \
+   
 
-3. Name the four bases and their partners.\
+3. Name the four bases and their partners.
 
-   \
+   
 
-4. What term is given to the many instructions contained within the DNA?\
+4. What term is given to the many instructions contained within the DNA?
 
-   \
+   
 
-5. What is mutation?\
+5. What is mutation?
 
-   \
+   
 
-6. Based on what you have learned, give 2 examples of physical characteristics not mentioned in the lecture that you think DNA has an impact on.\
+6. Based on what you have learned, give 2 examples of physical characteristics not mentioned in the lecture that you think DNA has an impact on.
 
-   \
+   
 
-7. What is sequencing?\
+7. What is sequencing?
 
-   \
+   
 
-8. Why would we want to use computer programming?\
+8. Why would we want to use computer programming?
 
-   \
+   
 
 ## At Home Activity 2: Introduction to Python
 
@@ -67,7 +66,7 @@ In order to run Python code online we will use a tool called Binder which allows
 
 -   To write non-code (comments) in the blocks, put a \# before the text
 
-This is what a jupyter notebook looks like!\
+This is what a jupyter notebook looks like!
 
 ![](images/printingcode.png)
 
@@ -97,7 +96,7 @@ To begin we will look at the following:
 print("Hello World") 
 ```
 
-Now try printing a message of your choice! Note you can use single or double quotes but you cannot mix them, see what happens if you do.\
+Now try printing a message of your choice! Note you can use single or double quotes but you cannot mix them, see what happens if you do.
 
 
 
@@ -134,7 +133,7 @@ Data in python can be of several different types. We have already come across on
 You can check what type of data a variable is by using the function type().
 
 Assign variable names to the following values and check their type:
-1,\"twenty\", 16.8, \"dna\", 1/2\
+1,\"twenty\", 16.8, \"dna\", 1/2
 
 For example:
 
@@ -143,7 +142,7 @@ x=1
 type(x)
 ```
 
-\
+
 
 ![](images/datatypes.png)
 
@@ -179,7 +178,7 @@ If some of our data is missing we might want to add to the sequence:
 mynewseq=myseq+"ATATATAT"
 ```
 
-\
+
 ![](images/analysingdata1.png)
 
 
