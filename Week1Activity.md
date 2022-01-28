@@ -5,6 +5,7 @@ title: Week 1 Actvities
 ---
 ## At Home Activity 1: Genetics and Genomics Worksheet 
 
+
 Based on the material discussed in the online lecture answer the following questions:
 
 1. What is a) Genetics, b) Genomics\
