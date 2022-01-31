@@ -187,10 +187,3 @@ Now we know some important information about our flu strain. We will investigate
 
 
 
-
-## Zoom Tutorial Activity:  Using Python To Study Flu Viruses 
-
-
-In this activity we will use the following notebook: https://mybinder.org/v2/gh/Youth-Academy-DNA/week1zoom/HEAD  
-
-Together we will look at the code that you learned in the previous activity and compare it to known sequences to see what strain of the flu a person has!
