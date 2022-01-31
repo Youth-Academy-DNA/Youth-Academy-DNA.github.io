@@ -40,13 +40,13 @@ This course will:
 
 ## Mutations
 
-Mutations are changes in the DNA sequence.\
+Mutations are changes in the DNA sequence.
 
-![](images/pointmutation.png)\
+![](images/pointmutation.png)
 
 The four bases can differ between people and can lead to differences in physical characteristics.
 
-![](images/eyecolor.png)\
+![](images/eyecolor.png)
 
 ## Genetics, Genomics and DNA
 
@@ -56,7 +56,7 @@ The four bases can differ between people and can lead to differences in physical
 
 - DNA sequencing can determine the nucleotide composition of DNA
 
-![](images/sequencing1.png)\
+![](images/sequencing1.png)
 
 ![](images/sequencing2.png)
 
