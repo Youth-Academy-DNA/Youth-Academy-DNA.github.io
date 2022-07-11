@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 1 Notes
+title: Day 1 Notes
 
 ---
 # Introduction to Genetics and Genomics
