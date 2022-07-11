@@ -1,4 +1,4 @@
-# Day 2: Population Genomics
+
 
 Today we looked at:
 
