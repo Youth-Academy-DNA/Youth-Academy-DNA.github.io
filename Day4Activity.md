@@ -1,4 +1,4 @@
-# Day 4: Ancient Genomics
+
 
 Today we looked at:
 
