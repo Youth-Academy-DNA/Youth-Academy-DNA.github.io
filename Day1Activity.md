@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 1 Actvities
+title: Day 1 Actvities
 
 ---
 ## At Home Activity 1: Genetics and Genomics Worksheet 
