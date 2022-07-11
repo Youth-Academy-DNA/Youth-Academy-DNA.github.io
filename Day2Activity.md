@@ -40,7 +40,7 @@ Genome-wide association studies allow us to identify variation (SNPS) present in
 
 This data contains genetic information on these individuals as well as the amount of coffee they consume. We will analyse the data to identify if there is a genetic cause for increased (or decreased) coffee consumption and purple hair!
 
-This practical will be run on a jupyter notebook at the following link https://mybinder.org/v2/gh/Youth-Academy-DNA/week2/HEAD?labpath=Day2.ipynb. Follow the instructions from yesterday but using the updated link to launch it.
+This practical will be run on a jupyter notebook at the following link https://mybinder.org/v2/gh/YouthAcademy-DNA/week2/HEAD?labpath=Day2.ipynb. Follow the instructions from yesterday but using the updated link to launch it.
 This may take a while! Don't forget to answer the questions as you go.
 
 
