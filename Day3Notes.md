@@ -1,4 +1,4 @@
-# Comparative Genomics
+
 - "Compares" genomes of different animals, bacteria, viruses etc..
 
 - We are all connected by our genes no matter how distantly!
