@@ -12,7 +12,6 @@ This is a 5 day course which will tackle a new area of genetics and genomics eac
 These topics include
 - Introduction to Genetics and Genomics
 - Population Genomics
-- Transcriptomics
 - Comparative Genomics
 - Ancient  Genomics
 - Machine Learning in Genomics\
