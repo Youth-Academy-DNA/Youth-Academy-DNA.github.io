@@ -7,14 +7,14 @@ title: Week 1 Notes
 
 This course will:
 
-- Last 6 weeks
+- Last 5 days
 - Consist of 3 parts
 
   - Weekly online video
 
   - At-home activities
 
-  - Weekly Zoom tutorial on Saturday
+  - Daily Zoom tutorial 
 - Each week will tackle a new area of genomics
 
 ## What is DNA?
