@@ -1,4 +1,3 @@
-# Day 3: Comparative Genomics
 
 Today we looked at:
 
