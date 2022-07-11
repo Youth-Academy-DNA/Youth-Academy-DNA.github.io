@@ -4,6 +4,7 @@ title: Day 2 Notes
 
 ---
 
+# Population Genomics
 
 **Population Genomics:** The study of variation in a large group of individuals
 
